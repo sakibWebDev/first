@@ -1,0 +1,8 @@
+label{
+	display: block;
+	padding-top: 10px;
+
+legend{
+	margin-left:calc(50% - 35px - 8px);
+
+}
